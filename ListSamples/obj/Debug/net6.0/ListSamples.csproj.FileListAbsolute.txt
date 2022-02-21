@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\ListSamples\bin\Debug\net6.0\ListSamples.exe
+D:\DotNet Technologies\Collections\ListSamples\bin\Debug\net6.0\ListSamples.deps.json
+D:\DotNet Technologies\Collections\ListSamples\bin\Debug\net6.0\ListSamples.runtimeconfig.json
+D:\DotNet Technologies\Collections\ListSamples\bin\Debug\net6.0\ListSamples.dll
+D:\DotNet Technologies\Collections\ListSamples\bin\Debug\net6.0\ref\ListSamples.dll
+D:\DotNet Technologies\Collections\ListSamples\bin\Debug\net6.0\ListSamples.pdb
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.dll
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ref\ListSamples.dll
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.pdb
+D:\DotNet Technologies\Collections\ListSamples\obj\Debug\net6.0\ListSamples.genruntimeconfig.cache

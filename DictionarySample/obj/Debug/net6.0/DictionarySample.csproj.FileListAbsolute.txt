@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\DictionarySample\bin\Debug\net6.0\DictionarySample.exe
+D:\DotNet Technologies\Collections\DictionarySample\bin\Debug\net6.0\DictionarySample.deps.json
+D:\DotNet Technologies\Collections\DictionarySample\bin\Debug\net6.0\DictionarySample.runtimeconfig.json
+D:\DotNet Technologies\Collections\DictionarySample\bin\Debug\net6.0\DictionarySample.dll
+D:\DotNet Technologies\Collections\DictionarySample\bin\Debug\net6.0\ref\DictionarySample.dll
+D:\DotNet Technologies\Collections\DictionarySample\bin\Debug\net6.0\DictionarySample.pdb
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.dll
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\ref\DictionarySample.dll
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.pdb
+D:\DotNet Technologies\Collections\DictionarySample\obj\Debug\net6.0\DictionarySample.genruntimeconfig.cache

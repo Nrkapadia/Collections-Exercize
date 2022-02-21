@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.exe
+D:\DotNet Technologies\Collections\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.deps.json
+D:\DotNet Technologies\Collections\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.runtimeconfig.json
+D:\DotNet Technologies\Collections\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.dll
+D:\DotNet Technologies\Collections\ConcurrentSample\bin\Debug\net6.0\ref\ConcurrentSample.dll
+D:\DotNet Technologies\Collections\ConcurrentSample\bin\Debug\net6.0\ConcurrentSample.pdb
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.dll
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ref\ConcurrentSample.dll
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.pdb
+D:\DotNet Technologies\Collections\ConcurrentSample\obj\Debug\net6.0\ConcurrentSample.genruntimeconfig.cache

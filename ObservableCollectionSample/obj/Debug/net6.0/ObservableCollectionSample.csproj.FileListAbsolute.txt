@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.exe
+D:\DotNet Technologies\Collections\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.deps.json
+D:\DotNet Technologies\Collections\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.runtimeconfig.json
+D:\DotNet Technologies\Collections\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.dll
+D:\DotNet Technologies\Collections\ObservableCollectionSample\bin\Debug\net6.0\ref\ObservableCollectionSample.dll
+D:\DotNet Technologies\Collections\ObservableCollectionSample\bin\Debug\net6.0\ObservableCollectionSample.pdb
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.dll
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ref\ObservableCollectionSample.dll
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.pdb
+D:\DotNet Technologies\Collections\ObservableCollectionSample\obj\Debug\net6.0\ObservableCollectionSample.genruntimeconfig.cache

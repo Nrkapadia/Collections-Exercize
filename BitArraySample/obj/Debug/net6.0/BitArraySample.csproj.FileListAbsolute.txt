@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\BitArraySample\bin\Debug\net6.0\BitArraySample.exe
+D:\DotNet Technologies\Collections\BitArraySample\bin\Debug\net6.0\BitArraySample.deps.json
+D:\DotNet Technologies\Collections\BitArraySample\bin\Debug\net6.0\BitArraySample.runtimeconfig.json
+D:\DotNet Technologies\Collections\BitArraySample\bin\Debug\net6.0\BitArraySample.dll
+D:\DotNet Technologies\Collections\BitArraySample\bin\Debug\net6.0\ref\BitArraySample.dll
+D:\DotNet Technologies\Collections\BitArraySample\bin\Debug\net6.0\BitArraySample.pdb
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.dll
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\ref\BitArraySample.dll
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.pdb
+D:\DotNet Technologies\Collections\BitArraySample\obj\Debug\net6.0\BitArraySample.genruntimeconfig.cache

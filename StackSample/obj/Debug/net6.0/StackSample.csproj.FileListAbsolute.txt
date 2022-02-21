@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\StackSample\bin\Debug\net6.0\StackSample.exe
+D:\DotNet Technologies\Collections\StackSample\bin\Debug\net6.0\StackSample.deps.json
+D:\DotNet Technologies\Collections\StackSample\bin\Debug\net6.0\StackSample.runtimeconfig.json
+D:\DotNet Technologies\Collections\StackSample\bin\Debug\net6.0\StackSample.dll
+D:\DotNet Technologies\Collections\StackSample\bin\Debug\net6.0\ref\StackSample.dll
+D:\DotNet Technologies\Collections\StackSample\bin\Debug\net6.0\StackSample.pdb
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.dll
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\ref\StackSample.dll
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.pdb
+D:\DotNet Technologies\Collections\StackSample\obj\Debug\net6.0\StackSample.genruntimeconfig.cache

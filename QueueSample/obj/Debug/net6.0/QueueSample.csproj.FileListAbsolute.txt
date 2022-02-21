@@ -1,0 +1,15 @@
+D:\DotNet Technologies\Collections\QueueSample\bin\Debug\net6.0\QueueSample.exe
+D:\DotNet Technologies\Collections\QueueSample\bin\Debug\net6.0\QueueSample.deps.json
+D:\DotNet Technologies\Collections\QueueSample\bin\Debug\net6.0\QueueSample.runtimeconfig.json
+D:\DotNet Technologies\Collections\QueueSample\bin\Debug\net6.0\QueueSample.dll
+D:\DotNet Technologies\Collections\QueueSample\bin\Debug\net6.0\ref\QueueSample.dll
+D:\DotNet Technologies\Collections\QueueSample\bin\Debug\net6.0\QueueSample.pdb
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.csproj.AssemblyReference.cache
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.GeneratedMSBuildEditorConfig.editorconfig
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfoInputs.cache
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.AssemblyInfo.cs
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.csproj.CoreCompileInputs.cache
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.dll
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\ref\QueueSample.dll
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.pdb
+D:\DotNet Technologies\Collections\QueueSample\obj\Debug\net6.0\QueueSample.genruntimeconfig.cache
